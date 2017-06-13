@@ -1,0 +1,2 @@
+h:\eigene dokumente\visual studio 2015\Projects\DB_PRG_Formulashit\DB_PRG_Formulashit\bin\Debug\DB_PRG_Formulashit.exe.config
+F:\Schuljahr 2016_2017\Programmieren Wae\DB_PRG_Formulashit\DB_PRG_Formulashit\bin\Debug\DB_PRG_Formulashit.exe.config
